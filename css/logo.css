@@ -1,0 +1,42 @@
+.logo {
+    display: inline-block;
+    width: 84px;
+    height: 84px;
+    font-size: 28px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.logo .n {
+    position: absolute;
+    font-size: 1.8em;
+}
+
+.logo .u {
+    position: absolute;
+    padding: .46em 0 0 .37em;
+    font-size: 1.5em;
+    color: red;
+}
+
+.logo .ick {
+    padding-left: 1.3em;
+}
+
+.logo .li {
+    letter-spacing: .08em;
+    padding-left: 1.67em;
+    line-height: 0;
+    color: red;
+}
+
+.logo .mis {
+    padding-left: 1.12em;
+    letter-spacing: .08em;
+    color: blue;
+}
+
+.logo .matics {
+    line-height: 0;
+}
